@@ -12,7 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: #5C3E43;
+    background-color: aqua;
 }
 
 ::selection{
@@ -106,7 +106,7 @@ form button{
     height: 52px;
     color:S #fff;
     font-size: 17px;
-    background-color: #2a0f3f;
+    background-color: #675afe;
     cursor: pointer;
     margin-top: 10px;
     transition: 0.3s ease;
